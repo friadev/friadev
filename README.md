@@ -1,6 +1,9 @@
-- Currently learning C#, HTML/CSS, JavaScript
-- Interested in desktop/mobile security
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=friadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=friadev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=friadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=friadev&count_private=true&theme=tokyonight&showicons=true)]()
+---
+[![](https://komarev.com/ghpvc/?username=friadev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=friadev&langs_count=5&theme=tokyonight)]()
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
